@@ -71,7 +71,7 @@ The future of software is about connectivity, speed, and scalability. API-First 
 
 In short, API-First transforms products into platforms, code into ecosystems, and companies into enablers of innovation. That’s why it’s no longer just a development strategy—it’s the future of software.
 
-ETL vs ELT: Understanding Modern Data Pipelines
+**ETL vs ELT: Understanding Modern Data Pipelines**
 
 In the era of big data, organizations rely on efficient data processing pipelines to transform raw information into insights. Two of the most common approaches are ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform). While these terms sound similar, the difference in their workflow can significantly impact performance, scalability, and costs.
 
